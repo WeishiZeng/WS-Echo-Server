@@ -1,0 +1,16 @@
+{
+  "name": "ws_echo_server",
+  "version": "1.0.0",
+  "contributors": [
+    "Weishi Zeng"
+  ],
+  "description": "WebSocket Echo Server",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WeishiZeng/HTTP-Echo-Server"
+  },
+  "devDependencies": {
+    "ws": "^3.0.0"
+  }
+}
